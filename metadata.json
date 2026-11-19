@@ -1,0 +1,6 @@
+{
+  "name": "Sector-60: Tactical Arena FPS",
+  "description": "A procedural 3D first-person shooter built with Three.js and Web Audio API featuring tactical wave combat, hitscan ballistics, armored combat bots, and standalone single-HTML export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
